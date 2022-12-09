@@ -1,5 +1,0 @@
-Feature: login functionality
-
-
-
-  Scenario:
